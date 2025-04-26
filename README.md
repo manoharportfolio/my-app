@@ -31,18 +31,18 @@ It is a simple text utility app created to practice and apply concepts of functi
 ## 📚 Learning Source
 
 - **Tutorial by CodeWithHarry**:  
-  [React Tutorial in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+  [React Tutorial in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt)
 
 ## 🛠️ How to Run
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/textutils.git
+   git clone https://github.com/manoharportfolio/my-app.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd textutils
+   cd my-app
    ```
 
 3. **Install dependencies**
@@ -59,5 +59,5 @@ It is a simple text utility app created to practice and apply concepts of functi
 
 ## 🙋‍♂️ Author
 
-- **Manohar [Your Last Name]**
+- **Manohar**
 - This project was built for learning and practice purpose only.
